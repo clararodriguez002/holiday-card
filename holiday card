@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+    </head>
+    <body>
+
+        <h1>Happy Christmas!</h1>
+        <img src="https://www.kasandbox.org/programming-images/seasonal/house-with-lights.png" alt="funny" width ="300">
+    
+    <p>I hope you can have a beautiful Christmas and that you enjoy it too much. I'm sure you will pass a great time with your family and your friends. Hope you get a lot of presents adn that you have a really good time with people around you.</p>
+    <p> Kisses.</p>
+    <p>Clara.</p>
+        
+    </body>
+</html>
